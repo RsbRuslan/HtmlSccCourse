@@ -1,3 +1,29 @@
 .centered-text {
     text-align: center;
 }
+
+body {
+    margin: 0 auto;
+    width: 1000px;
+    background-image: url(../images/stock-vector-abstract-modern-square-background-white-and-grey-geometric-texture-vector-illustration-1723827343.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: double;
+    border-color: black;
+    padding: 20px;
+}
+
+ul>li {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+ol>li {
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.movie-image {
+    vertical-align: top;
+    width: 200px;
+    height: 300px;
+    border-radius: 8px;
+}
